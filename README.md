@@ -48,7 +48,7 @@ All servers run simultaneously and work together.
 ---
 
 ### ScreenShots
-! ![description](image.png)
+!(image.png)
 
 
 
