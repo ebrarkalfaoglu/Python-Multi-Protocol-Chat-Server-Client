@@ -50,6 +50,10 @@ All servers run simultaneously and work together.
 ### ScreenShots
 <img width="671" height="211" alt="image" src="https://github.com/user-attachments/assets/979f7331-6651-41d2-ab0a-4e8c93b2e188" />
 
+<img width="960" height="416" alt="image" src="https://github.com/user-attachments/assets/86559ac1-a39d-41ec-b466-b942a2921f54" />
+
+<img width="957" height="396" alt="image" src="https://github.com/user-attachments/assets/fcfbf076-9c78-4346-af64-d8b16b23fb0d" />
+
 
 
 
