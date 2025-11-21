@@ -48,7 +48,8 @@ All servers run simultaneously and work together.
 ---
 
 ### ScreenShots
-![description](image.png)
+<img width="671" height="211" alt="image" src="https://github.com/user-attachments/assets/979f7331-6651-41d2-ab0a-4e8c93b2e188" />
+
 
 
 
