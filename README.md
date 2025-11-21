@@ -1,3 +1,5 @@
+Ebrar Kalfaoğlu
+2021556040
 # Python-Multi-Protocol-Chat-Server-Client
 
 This project provides a **multi-user**, **multi-protocol**, real-time chat system built in Python.  
@@ -53,7 +55,6 @@ All servers run simultaneously and work together.
 <img width="960" height="416" alt="image" src="https://github.com/user-attachments/assets/86559ac1-a39d-41ec-b466-b942a2921f54" />
 
 <img width="957" height="396" alt="image" src="https://github.com/user-attachments/assets/fcfbf076-9c78-4346-af64-d8b16b23fb0d" />
-
 
 
 
